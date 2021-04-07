@@ -1,0 +1,24 @@
+To, Assignment Name, Value
+CLK, Location, PIN_23
+LED1, Location, PIN_87
+LED2, Location, PIN_86
+LED3, Location, PIN_85
+LED4, Location, PIN_84
+DIG1, Location, PIN_133
+DIG2, Location, PIN_135
+DIG3, Location, PIN_136
+DIG4, Location, PIN_137
+SEG0, Location, PIN_128
+SEG1, Location, PIN_121
+SEG2, Location, PIN_125
+SEG3, Location, PIN_129
+SEG4, Location, PIN_132
+SEG5, Location, PIN_126
+SEG6, Location, PIN_124
+SEG7, Location, PIN_127
+KEY1, Location, PIN_88
+KEY2, Location, PIN_89
+KEY3, Location, PIN_90
+KEY4, Location, PIN_91
+
+
